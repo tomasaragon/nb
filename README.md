@@ -29,4 +29,6 @@
 - [CDPH AAR - Logistics, Distribution, and Warehousing](https://github.com/tomasaragon/nb/blob/main/25_CDPH-AAR_Logistics-Distribution-and-Warehousing.pdf) 
 
 ## Local health jurisdictions After Action Reports
-- 
+- [Marin County After Action Report for COVID-19 Response](https://github.com/tomasaragon/nb/blob/main/AAR_Marin.pdf)
+- [California Local Health Jurisdictions After Action Reports for COVID-19 Response](https://github.com/tomasaragon/nb/blob/main/AARs_LHJs_CA_no-marin.pdf)
+
