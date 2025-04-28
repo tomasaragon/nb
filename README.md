@@ -86,6 +86,49 @@
 51. [Alex L. Roederer et al., “Ongoing Evolution of SARS-CoV-2 Drives Escape from mRNA Vaccine-Induced Humoral Immunity,” Cell Reports. Medicine 5, no. 12 (December 17, 2024): 101850, https://doi.org/10.1016/j.xcrm.2024.101850.](https://github.com/tomasaragon/nb/blob/main/39657661_Roederer2024.pdf) 
 52. [Ada T. Kwan et al., “The Integration of Health Equity into Policy to Reduce Disparities: Lessons from California during the COVID-19 Pandemic,” PloS One 20, no. 3 (2025): e0316517, https://doi.org/10.1371/journal.pone.0316517.](https://github.com/tomasaragon/nb/blob/main/40048417_Kwan2025.pdf)
 
+## Links to web pages for COVID-19 and California
+
+### California covid response summaries on Wikipedia
+
+California government response to the COVID-19 pandemic
+https://en.wikipedia.org/wiki/California_government_response_to_the_COVID-19_pandemic
+
+COVID-19 pandemic in California
+https://en.wikipedia.org/wiki/COVID-19_pandemic_in_California 
+
+COVID-19 pandemic on Grand Princess
+https://en.wikipedia.org/wiki/COVID-19_pandemic_on_Grand_Princess
+
+### COVID-19 and California prisons
+
+California’s Jail Population Has Plummeted during COVID-19 (2020-05-08)
+https://www.ppic.org/blog/californias-jail-population-has-plummeted-during-covid-19/
+
+Addressing the Outbreak in San Quentin: Lessons from 1918 (2020-07-16)
+https://www.ppic.org/blog/addressing-the-outbreak-in-san-quentin-lessons-from-1918/ 
+
+California’s Incarcerated Population Plunges to New Low during COVID-19 (2020-08-19)
+https://www.ppic.org/blog/californias-incarcerated-population-plunges-to-new-low-during-covid-19/ 
+
+Rising Jail Populations Mean Rising COVID-19 Infections (2020-10-20)
+https://www.ppic.org/blog/rising-jail-populations-mean-rising-covid-19-infections/ 
+
+The Past, Present, and Future of COVID-19 in California Prisons (2021-07-15)
+https://www.ppic.org/blog/the-past-present-and-future-of-covid-19-in-california-prisons/
+
+California Jails and COVID-19 (2021-08-21)
+https://www.ppic.org/blog/california-jails-and-covid-19/ 
+
+What Happened When California Suspended Bail during COVID? (2024-11)
+https://www.ppic.org/publication/what-happened-when-california-suspended-bail-during-covid/ 
+
+### CDPH Covid web pages
+https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/nCoV2019.aspx
+
+https://myvaccinerecord.cdph.ca.gov/
+
+https://myturn.ca.gov/
+
 ## Links to Governor Gavin Newsom events and executive orders
 
 https://www.gov.ca.gov/2023/03/02/acting-governor-eleni-kounalakis-signs-legislation-to-support-states-covid-19-preparedness/
