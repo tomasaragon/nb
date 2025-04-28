@@ -1,10 +1,10 @@
-![image](https://github.com/user-attachments/assets/de7866ea-7650-445c-8aae-c2113a6866a4)# California Response to the COVID-19 Pandemic: Saving live, Protecting the economy, and Healthy equity for all
+# California Response to the COVID-19 Pandemic: Saving live, Protecting the economy, and Healthy equity for all
 
 text
 
 ## California Department of Public Health After Action Report (CDPH)
-- [CDPH AAR - Executive Summary](https://github.com/tomasaragon/nb/blob/main/00_CDPH%20AAR%20-%20Executive%20Summary%20-%20Final%20Draft%20v1.0%20-%202.10.2025.pdf)
-- [CDPH AAR - Operational Organization]()
+- [CDPH AAR - Executive Summary](https://github.com/tomasaragon/nb/blob/main/00_CDPH-AAR_Executive-Summary.pdf)
+- [CDPH AAR - Operational Organization](https://github.com/tomasaragon/nb/blob/main/01_CDPH-AAR_Operational-Organization.pdf)
 - [CDPH AAR - MAC Group and Scarce Resource Allocation]()
 - [CDPH AAR - Policy Development and Guidance]()
 - [CDPH AAR - County Monitoring & Local Coordination]()
