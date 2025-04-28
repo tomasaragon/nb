@@ -1,7 +1,5 @@
 # California Response to the COVID-19 Pandemic: Saving live, Protecting the economy, and Healthy equity for all
 
-text
-
 ## California Department of Public Health After Action Report (CDPH)
 - [CDPH AAR - Executive Summary](https://github.com/tomasaragon/nb/blob/main/00_CDPH-AAR_Executive-Summary.pdf)
 - [CDPH AAR - Operational Organization](https://github.com/tomasaragon/nb/blob/main/01_CDPH-AAR_Operational-Organization.pdf)
