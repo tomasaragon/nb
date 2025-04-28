@@ -29,3 +29,6 @@ text
 - [CDPH AAR - Contracting and Procurement](https://github.com/tomasaragon/nb/blob/main/23_CDPH-AAR_Contracting-and-Procurement.pdf)
 - [CDPH AAR - Human Resources Administration](https://github.com/tomasaragon/nb/blob/main/24_CDPH-AAR_Human%20Resources%20Administration.pdf)
 - [CDPH AAR - Logistics, Distribution, and Warehousing](https://github.com/tomasaragon/nb/blob/main/25_CDPH-AAR_Logistics-Distribution-and-Warehousing.pdf) 
+
+## Local health jurisdictions After Action Reports
+- 
