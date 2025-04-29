@@ -32,6 +32,13 @@
 - [Marin County After Action Report for COVID-19 Response](https://github.com/tomasaragon/nb/blob/main/AAR_Marin.pdf)
 - [California Local Health Jurisdictions After Action Reports for COVID-19 Response](https://github.com/tomasaragon/nb/blob/main/AARs_LHJs_CA_no-marin.pdf)
 
+## Impacts on education
+- https://edsource.org/2025/five-years-later-moments-that-defined-covid-19s-impact-on-education-in-california/727629#0
+- https://edsource.org/2025/covids-long-shadow-in-california-chronic-absences-student-depression-and-the-limits-of-money/728640
+- https://assets.aecf.org/m/resourcedoc/aecf-2024kidscountdatabook-2024.pdf
+- https://assets.aecf.org/m/databook/2024-KCDB-profile-CA.pdf
+- https://www.aecf.org/blog/pandemic-learning-loss-impacting-young-peoples-futures
+
 ## Selected scientific articles relevant to California
 1. [Joseph A. Lewnard and Nathan C. Lo, “Scientific and Ethical Basis for Social-Distancing Interventions against COVID-19,” The Lancet. Infectious Diseases 20, no. 6 (June 2020): 631–33, https://doi.org/10.1016/S1473-3099(20)30190-0.](https://github.com/tomasaragon/nb/blob/main/32213329_Lewnard2020.pdf)
 2. [CDC COVID-19 Response Team et al., “Evidence for Limited Early Spread of COVID-19 Within the United States, January-February 2020,” MMWR. Morbidity and Mortality Weekly Report 69, no. 22 (June 5, 2020): 680–84, https://doi.org/10.15585/mmwr.mm6922e1.](https://github.com/tomasaragon/nb/blob/main/32497028_CDC2020.pdf) 
